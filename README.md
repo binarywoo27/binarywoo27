@@ -1,10 +1,10 @@
-### Hi there! I'm Jinwoo 👋
+## Hi there! I'm Jinwoo 👋
 
 📚 Education
 🎓 I graduated from Handong Global University
 🌱 I’m currently learning Java, Algorithm and Web Programming
 🚩 I want to be a Backend Developer
-📝 I regularly write articles on https://binarywoo.tistory.com/
+📝 I am trying to write regularly on https://binarywoo.tistory.com/
 📫 How to reach me blu_mountain@naver.com
 
 ## 🎖Github stats
