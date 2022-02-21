@@ -7,7 +7,7 @@
 📝 I regularly write articles on https://binarywoo.tistory.com/
 📫 How to reach me blu_mountain@naver.com
 
-🎖Github stats
+## 🎖Github stats
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=binarywoo27)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **binarywoo27/binarywoo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
