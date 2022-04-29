@@ -1,8 +1,6 @@
 ## Hi there! 👋
 
 - My name is Jinwoo
-- 📚 Education:
-- Handong Global University
 - 🚩 Goals: 
 - I want to be a Backend Developer
 - 📝 Blog:
