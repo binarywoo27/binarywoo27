@@ -1,10 +1,10 @@
-## Hi there! 👋
+##  이진우 Jinwoo Lee
 
-- My name is Jinwoo
+### Work experience 
+- 대한민국 육군 영어통역병 : 2016
 - 🚩 Goals: 
 - I want to be a Backend Developer
-- 📝 Blog:
-- https://binarywoo.tistory.com/
+
 - Contact Info: blu_mountain@naver.com
 
 ## 개발 경험 : 
