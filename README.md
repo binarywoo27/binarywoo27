@@ -1,11 +1,9 @@
 ##  이진우 Jinwoo Lee
 
-### Work experience 
-- 대한민국 육군 영어통역병 : 2016
-- 🚩 Goals: 
-- I want to be a Backend Developer
+### 🚩 Goals: 
+I want to be a Web Backend Developer  <br/>
 
-- Contact Info: blu_mountain@naver.com
+#### 📞 Contact Info: blu_mountain@naver.com <br/>
 
 ## 개발 경험 : 
 1) Learntube (졸업작품) : 2021.06 ~ 2022.12 <br/>
