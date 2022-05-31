@@ -6,7 +6,7 @@ I want to be a Web Backend Developer  <br/>
 #### 📞 Contact Info: blu_mountain@naver.com <br/>
 
 ## 개발 경험 : 
-1) Learntube (졸업작품) : 2021.06 ~ 2022.12 <br/>
+1) Learntube (졸업작품) : 2021.06 ~ 2022.12 <br/> 
 https://github.com/binarywoo27/Learntube
 
 2) Flutter 모바일 앱 개발 (팀프로젝트) : 2020.10 ~ 2020.12 <br/>
