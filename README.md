@@ -1,4 +1,4 @@
-##  이진우 Jinwoo Lee
+##  이진우 Jinwoo Lee 
 
 ### 🚩 Goals: 
 I want to be a Web Backend Developer  <br/>
