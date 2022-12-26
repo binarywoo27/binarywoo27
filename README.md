@@ -1,6 +1,6 @@
 ##  이진우 Jinwoo Lee 
 
-### 🚩 Goals: 
+### 🚩 Goals:  
 I want to be a Web Backend Developer  <br/>
 
 #### 📞 Contact Info: blu_mountain@naver.com <br/>
