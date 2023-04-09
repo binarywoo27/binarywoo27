@@ -6,10 +6,15 @@ I want to be a Web Frontend Developer  <br/>
 #### 📞 Contact Info: blu_mountain@naver.com <br/>
 
 ## 개발 경험 : 
-1) Learntube (졸업작품) : 2021.06 ~ 2021.12 <br/> 
+1) 산삶 : 2023.02.27 ~ 2023.04.07 <br/>
+
+2) 시나브로 (온라인 노인여가복지 플랫폼 서비스 ) : 2023.01.03 ~ 2023.02.16 <br/>
+https://github.com/XronAce/sinabro 
+
+3) Learntube (졸업작품) : 2021.06 ~ 2021.12 <br/> 
 https://github.com/binarywoo27/Learntube
 
-2) Flutter 모바일 앱 개발 (팀프로젝트) : 2020.10 ~ 2020.12 <br/>
+4) Flutter 모바일 앱 개발 (팀프로젝트) : 2020.10 ~ 2020.12 <br/>
 https://github.com/binarywoo27/Flutter_teamproject
 
 ## 🎖Github stats
