@@ -15,8 +15,8 @@ https://github.com/XronAce/sinabro
 3) Learntube (졸업작품) : 2021.06 ~ 2021.12 <br/> 
 https://github.com/binarywoo27/Learntube
 
-4) Flutter 모바일 앱 개발 (팀프로젝트) : 2020.10 ~ 2020.12 <br/>
-https://github.com/binarywoo27/Flutter_teamproject
+<!-- 4) Flutter 모바일 앱 개발 (팀프로젝트) : 2020.10 ~ 2020.12 <br/>
+https://github.com/binarywoo27/Flutter_teamproject -->
 
 ## 🎖Github stats
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=binarywoo27)](https://github.com/anuraghazra/github-readme-stats)
