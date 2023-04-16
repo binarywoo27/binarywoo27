@@ -7,7 +7,7 @@ I want to be a Web Frontend Developer  <br/>
 
 ## 개발 경험 : 
 1) 산삶 : 2023.02.27 ~ 2023.04.07 <br/>
-SSAFY 코드 반출 승인 대기중
+https://github.com/binarywoo27/sansam
 
 2) 시나브로 (온라인 노인여가복지 플랫폼 서비스 ) : 2023.01.03 ~ 2023.02.16 <br/>
 https://github.com/binarywoo27/sinabro
