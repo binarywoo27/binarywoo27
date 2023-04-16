@@ -10,7 +10,7 @@ I want to be a Web Frontend Developer  <br/>
 SSAFY 코드 반출 승인 대기중
 
 2) 시나브로 (온라인 노인여가복지 플랫폼 서비스 ) : 2023.01.03 ~ 2023.02.16 <br/>
-https://github.com/XronAce/sinabro 
+https://github.com/binarywoo27/sinabro
 
 3) Learntube (졸업작품) : 2021.06 ~ 2021.12 <br/> 
 https://github.com/binarywoo27/Learntube
