@@ -18,8 +18,11 @@ https://github.com/binarywoo27/Learntube
 <!-- 4) Flutter 모바일 앱 개발 (팀프로젝트) : 2020.10 ~ 2020.12 <br/>
 https://github.com/binarywoo27/Flutter_teamproject -->
 
+<!-- 
 ## 🎖Github stats
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=binarywoo27)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 <!--
 **binarywoo27/binarywoo27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
