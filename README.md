@@ -2,7 +2,7 @@
 
 #### 📞 Contact Info: blu_mountain@naver.com <br/>
 
-## 개발 경험 : 
+<!-- ## 개발 경험 : 
 1) 산삶 (등산코스 추천 서비스 (웹앱)) : 2023.02.27 ~ 2023.04.07 <br/>
 https://github.com/binarywoo27/sansam
 
@@ -11,6 +11,7 @@ https://github.com/binarywoo27/sinabro
 
 3) Learntube (졸업작품) : 2021.06 ~ 2021.12 <br/> 
 https://github.com/binarywoo27/Learntube
+-->
 
 <!-- 4) Flutter 모바일 앱 개발 (팀프로젝트) : 2020.10 ~ 2020.12 <br/>
 https://github.com/binarywoo27/Flutter_teamproject -->
